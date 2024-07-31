@@ -1,2 +1,1 @@
-Run Program in terminal 
-JAVA runSnake
+Run Program in terminal: java RunSnake
